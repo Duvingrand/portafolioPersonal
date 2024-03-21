@@ -1,18 +1,8 @@
-/* Estilo básico para el nav */
-nav {
-    background-color: #333;
-    padding: 10px;
-  }
-  
-  /* Estilo para los enlaces dentro del nav */
-  nav a {
-    color: #fff; /* Color del texto */
-    text-decoration: none; /* Sin subrayado */
-    padding: 10px; /* Espaciado interno */
-  }
-  
-  /* Estilo para los enlaces al pasar el mouse por encima */
-  nav a:hover {
-    background-color: #555; /* Color de fondo al pasar el mouse */
-  }
-  
+body{
+    background-color: gray;
+}
+
+#perfil{
+    align-items: center;
+    text-align: center;
+}
